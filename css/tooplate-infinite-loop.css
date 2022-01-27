@@ -1,9 +1,35 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@aosuke-f 
+aosuke-f
+/
+web
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+web/css/tooplate-infinite-loop.css
+@aosuke-f
+aosuke-f Update tooplate-infinite-loop.css
+Latest commit 2633c71 14 minutes ago
+ History
+ 1 contributor
+701 lines (576 sloc)  11.2 KB
+   
 /*
-
 Tooplate 2117 Infinite Loop
-
 https://www.tooplate.com/view/2117-infinite-loop
-
 */
 
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900");
@@ -163,25 +189,25 @@ blockquote {
 
 @media (min-height: 830px) {
   #infinite {
-    background-position: center top;
+    background-position: center -210px;
   }
 }
 
 @media (min-height: 680px) and (max-height: 829px) {
   #infinite {
-    background-position: center top;
+    background-position: center -300px;
   }
 }
 
 @media (min-height: 500px) and (max-height: 679px) {
   #infinite {
-    background-position: center top;
+    background-position: center -400px;
   }
 }
 
 @media (max-height: 499px) {
   #infinite {
-    background-position: center top;
+    background-position: center -450px;
   }
 }
 
@@ -699,3 +725,16 @@ p {
     margin: 0;
   }
 }
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
